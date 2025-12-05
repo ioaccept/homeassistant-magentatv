@@ -57,12 +57,12 @@ Feel free to contribute!
 
 ### HACS (Recommended)
 
-[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=xyaren&repository=homeassistant-magentatv&category=integration)
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=ioaccept&repository=homeassistant-magentatv&category=integration)
 
 or
 
 1. Install [HACS](https://hacs.xyz/)
-1. Add `https://github.com/Xyaren/homeassistant-magentatv` as a [custom repository](https://hacs.xyz/docs/faq/custom_repositories)
+1. Add `https://github.com/ioaccept/homeassistant-magentatv` as a [custom repository](https://hacs.xyz/docs/faq/custom_repositories)
 1. Restart Home Assistant
 
 ### Manual
