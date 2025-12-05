@@ -8,10 +8,10 @@
   "dependencies": [
     "ssdp"
   ],
-  "documentation": "https://github.com/Xyaren/homeassistant-magentatv#adding-a-receiver",
+  "documentation": "https://github.com/ioaccept/homeassistant-magentatv#adding-a-receiver",
   "integration_type": "device",
   "iot_class": "local_polling",
-  "issue_tracker": "https://github.com/Xyaren/homeassistant-magentatv/issues",
+  "issue_tracker": "https://github.com/ioaccept/homeassistant-magentatv/issues",
   "loggers": [
     "custom_components.magnetatv",
     "magnetatv"
