@@ -137,15 +137,15 @@ If you want to contribute to this please read the [Contribution guidelines](CONT
 
 ***
 
-[homeassistant-magentatv]: https://github.com/xyaren/homeassistant-magentatv
+[homeassistant-magentatv]: https://github.com/ioaccept/homeassistant-magentatv
 [buymecoffee]: https://www.buymeacoffee.com/xyaren
 [buymecoffeebadge]: https://img.shields.io/badge/🍕%20buy%20me%20a%20slice%20of%20pizza-donate-yellow.svg?style=for-the-badge
-[commits-shield]: https://img.shields.io/github/commit-activity/y/xyaren/homeassistant-magentatv.svg?style=for-the-badge
-[commits]: https://github.com/xyaren/homeassistant-magentatv/commits/main
+[commits-shield]: https://img.shields.io/github/commit-activity/y/ioaccept/homeassistant-magentatv.svg?style=for-the-badge
+[commits]: https://github.com/ioaccept/homeassistant-magentatv/commits/main
 [hacs]: https://github.com/hacs/integration
 [hacsbadge]: https://img.shields.io/badge/HACS-Custom-41BDF5.svg?style=for-the-badge
-[license-shield]: https://img.shields.io/github/license/xyaren/homeassistant-magentatv.svg?style=for-the-badge
-[maintenance-shield]: https://img.shields.io/badge/maintainer-%40xyaren-blue.svg?style=for-the-badge
-[releases-shield]: https://img.shields.io/github/release/xyaren/homeassistant-magentatv.svg?style=for-the-badge
-[releases]: https://github.com/xyaren/homeassistant-magentatv/releases
-[coverage-shield]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fxyaren.github.io%2Fhomeassistant-magentatv%2Fcoverage%2Fcoverage.json&query=%24.totals.percent_covered_display&suffix=%25&style=for-the-badge&label=Coverage&color=green
+[license-shield]: https://img.shields.io/github/license/ioaccept/homeassistant-magentatv.svg?style=for-the-badge
+[maintenance-shield]: https://img.shields.io/badge/maintainer-%ioaccept-blue.svg?style=for-the-badge
+[releases-shield]: https://img.shields.io/github/release/ioaccept/homeassistant-magentatv.svg?style=for-the-badge
+[releases]: https://github.com/ioaccept/homeassistant-magentatv/releases
+[coverage-shield]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fioaccept.github.io%2Fhomeassistant-magentatv%2Fcoverage%2Fcoverage.json&query=%24.totals.percent_covered_display&suffix=%25&style=for-the-badge&label=Coverage&color=green
